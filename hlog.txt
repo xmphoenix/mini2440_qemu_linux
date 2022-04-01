@@ -1,0 +1,9 @@
+env:
+Ubuntu 21.04
+Linux 5.11.0-40
+gcc version 10.3.0 
+
+ref website :
+https://repo.or.cz/w/u-boot-openmoko/mini2440.git
+
+
